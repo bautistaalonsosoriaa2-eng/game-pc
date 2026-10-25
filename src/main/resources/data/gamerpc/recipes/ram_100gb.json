@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RDR",
+    "DMD"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "M": {
+      "item": "gamerpc:ram_32gb"
+    }
+  },
+  "result": {
+    "item": "gamerpc:ram_100gb",
+    "count": 1
+  }
+}

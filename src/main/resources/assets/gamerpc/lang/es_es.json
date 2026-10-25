@@ -1,0 +1,13 @@
+{
+  "itemGroup.gamerpc.main": "Gamer PC",
+  "block.gamerpc.pc_tower": "Torre de PC Gamer",
+  "block.gamerpc.monitor": "Monitor Gamer",
+  "block.gamerpc.keyboard": "Teclado Gamer",
+  "block.gamerpc.mouse": "Mouse Gamer",
+  "item.gamerpc.motherboard": "Tarjeta Madre Gamer",
+  "item.gamerpc.ram_32gb": "RAM Gamer 32 GB",
+  "item.gamerpc.ram_100gb": "RAM Gamer 100 GB",
+  "item.gamerpc.ssd_500gb": "SSD Gamer 500 GB",
+  "item.gamerpc.ssd_1tb": "SSD Gamer 1 TB",
+  "block.gamerpc.router": "Router Gamer"
+}

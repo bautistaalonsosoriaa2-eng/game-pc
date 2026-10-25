@@ -1,0 +1,240 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_base",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "motherboard": "true"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_mb",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "ram": "ram_32"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram32",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "ram": "ram_100"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram100",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "storage": "ssd_500"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd500",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "storage": "ssd_1tb"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd1tb",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "east"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_base",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "motherboard": "true"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_mb",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "ram": "ram_32"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram32",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "ram": "ram_100"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram100",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "storage": "ssd_500"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd500",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "storage": "ssd_1tb"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd1tb",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_base",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "motherboard": "true"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_mb",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "ram": "ram_32"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram32",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "ram": "ram_100"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram100",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "storage": "ssd_500"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd500",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "storage": "ssd_1tb"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd1tb",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_base",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "motherboard": "true"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_mb",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "ram": "ram_32"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram32",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "ram": "ram_100"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ram100",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "storage": "ssd_500"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd500",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "storage": "ssd_1tb"
+      },
+      "apply": {
+        "model": "gamerpc:block/pc_tower_ssd1tb",
+        "y": 270
+      }
+    }
+  ]
+}

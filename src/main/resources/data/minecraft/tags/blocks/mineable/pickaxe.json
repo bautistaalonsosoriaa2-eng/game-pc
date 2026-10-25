@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "gamerpc:pc_tower",
+    "gamerpc:monitor",
+    "gamerpc:keyboard",
+    "gamerpc:mouse",
+    "gamerpc:router"
+  ]
+}

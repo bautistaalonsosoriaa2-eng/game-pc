@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "gamerpc",
+  "version": "${version}",
+  "name": "Gamer PC",
+  "description": "Arma tu torre de PC gamer: tarjeta madre, RAM, SSD, monitor, teclado y mouse.",
+  "authors": [
+    "T\u00fa"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.gamerpc.GamerPC"
+    ],
+    "client": [
+      "com.gamerpc.client.GamerPCClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

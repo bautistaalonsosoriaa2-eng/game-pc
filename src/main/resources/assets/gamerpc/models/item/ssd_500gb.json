@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gamerpc:item/ssd_500gb"
+  }
+}

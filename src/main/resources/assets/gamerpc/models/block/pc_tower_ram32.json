@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "gamerpc:block/ram_32",
+    "t": "gamerpc:block/ram_32"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        8,
+        1
+      ],
+      "to": [
+        12,
+        13,
+        1.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#t",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    }
+  ]
+}
